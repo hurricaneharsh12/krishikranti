@@ -1,4 +1,4 @@
-
+A digital platform connecting farmers directly to consumers. Farmers can list their produce, manage orders, and find new customers. Consumers can buy fresh, locally-sourced produce at competitive prices, supporting their community and reducing food miles. The platform offers convenient delivery options and a secure payment system.
 ![image](https://github.com/user-attachments/assets/04d15153-203a-46e1-8937-df1d3da8ae6d)
 ![image](https://github.com/user-attachments/assets/dc548cb1-a91f-446b-876b-77c247799bb8)
 
